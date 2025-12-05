@@ -1,0 +1,288 @@
+country,iso_numeric,g_whoregion,prev,data_year,source_type,mode
+Algeria,12,AFR,0.18,2002,Survey,Survey
+American Samoa,16,WPR,100.0,2008,Survey,Survey
+Antigua and Barbuda,28,AMR,0.0,2009,Survey,Survey
+Barbados,52,AMR,0.0,2008,Survey,Survey
+Botswana,72,AFR,67.5,2008,Survey,Survey
+Solomon Islands,90,WPR,0.0,Unknown,Survey,Survey
+Myanmar,104,SEA,0.0,2012,Survey,Survey
+Belarus,112,EUR,3.0,2008,Survey,Survey
+Cambodia,116,WPR,6.3,2009,Survey,Survey
+Cameroon,120,AFR,35.0,2008,Survey,Survey
+Canada,124,AMR,3.9,2009,Survey,Survey
+Cayman Islands,136,AMR,0.0,2010,Survey,Survey
+Sri Lanka,144,SEA,0.07,2011,Survey,Survey
+Colombia,170,AMR,10.0,2008,Survey,Survey
+Democratic Republic of the Congo,180,AFR,8.6,2007,Survey,Survey
+Cuba,192,AMR,1.0,2010,Survey,Survey
+Cyprus,196,EUR,4.0,2008,Survey,Survey
+Denmark,208,EUR,3.0,2011,Survey,Survey
+Dominican Republic,214,AMR,8.6,2005,Survey,Survey
+Ecuador,218,AMR,10.88,2012,Survey,Survey
+El Salvador,222,AMR,0.0,Unknown,Survey,Survey
+Estonia,233,EUR,10.3,2010,Survey,Survey
+Fiji,242,WPR,0.25,2009,Survey,Survey
+France,250,EUR,7.3,2012,Survey,Survey
+French Polynesia,258,WPR,0.0,2010,Survey,Survey
+Gabon,266,AFR,33.0,2004,Survey,Survey
+"occupied Palestinian territory, including east Jerusalem",275,EMR,0.0,2008,Survey,Survey
+Ghana,288,AFR,14.7,2008,Survey,Survey
+Kiribati,296,WPR,0.68,2010,Survey,Survey
+Grenada,308,AMR,25.0,2010,Survey,Survey
+Guam,316,WPR,0.0,2007,Survey,Survey
+Guinea,324,AFR,16.7,2001,Survey,Survey
+Guyana,328,AMR,0.0,Unknown,Survey,Survey
+"China, Hong Kong SAR",344,WPR,0.66,2018,Survey,Survey
+India,356,SEA,7.0,2007,Survey,Survey
+Indonesia,360,WPR,2.41,2017,Survey,Survey
+Israel,376,EUR,3.8,2010,Survey,Survey
+Jamaica,388,AMR,0.0,2007,Survey,Survey
+Japan,392,WPR,0.49,2008,Survey,Survey
+Kazakhstan,398,EUR,1.0,2009,Survey,Survey
+Jordan,400,EMR,0.0,2010,Survey,Survey
+Kenya,404,AFR,41.0,2010,Survey,Survey
+Kuwait,414,EMR,2.7,2009,Survey,Survey
+Lebanon,422,EMR,1.2,2015,Survey,Survey
+Latvia,428,EUR,9.5,2010,Survey,Survey
+Lithuania,440,EUR,100.0,2014,Survey,Survey
+"China, Macao SAR",446,WPR,0.25,2008,Survey,Survey
+Malawi,454,AFR,63.0,2008,Survey,Survey
+Mali,466,AFR,16.2,2007,Survey,Survey
+Malta,470,EUR,9.3,2010,Survey,Survey
+Mauritania,478,AFR,0.05,2003,Survey,Survey
+Mexico,484,AMR,5.0,2009,Survey,Survey
+Morocco,504,EMR,1.7,2008,Survey,Survey
+Oman,512,EMR,1.27,2010,Survey,Survey
+Namibia,516,AFR,55.0,2010,Survey,Survey
+Nepal,524,SEA,1.1,2018,Survey,Survey
+Netherlands (Kingdom of the),528,EUR,4.0,2009,Survey,Survey
+Curaçao,531,AMR,33.3,2009,Survey,Survey
+Vanuatu,548,WPR,40.0,2009,Survey,Survey
+Nicaragua,558,AMR,0.0,Unknown,Survey,Survey
+Niger,562,AFR,11.0,2009,Survey,Survey
+Niue,570,WPR,1.0,2018,Survey,Survey
+Northern Mariana Islands,580,WPR,0.0,2011,Survey,Survey
+Pakistan,586,EMR,0.68,2018,Survey,Survey
+Panama,591,AMR,0.0,Unknown,Survey,Survey
+Paraguay,600,AMR,0.0,2010,Survey,Survey
+Peru,604,AMR,2.0,2010,Survey,Survey
+Portugal,620,EUR,12.0,2010,Survey,Survey
+Qatar,634,EMR,0.2,2011,Survey,Survey
+Romania,642,EUR,3.2,2010,Survey,Survey
+Russian Federation,643,EUR,8.0,2009,Survey,Survey
+Anguilla,660,AMR,0.0,2013,Survey,Survey
+Sao Tome and Principe,678,AFR,10.0,2022,Survey,Survey
+Serbia,688,EUR,0.3,2011,Survey,Survey
+Seychelles,690,AFR,0.0,2009,Survey,Survey
+Sierra Leone,694,AFR,10.9,2005,Survey,Survey
+Somalia,706,EMR,0.0,2010,Survey,Survey
+Zimbabwe,716,AFR,0.0,Unknown,Survey,Survey
+South Sudan,728,AFR,14.7,2011,Survey,Survey
+Eswatini,748,AFR,60.0,2018,Survey,Survey
+Syrian Arab Republic,760,EMR,0.0,Unknown,Survey,Survey
+Tajikistan,762,EUR,4.0,2008,Survey,Survey
+Thailand,764,SEA,17.0,2007,Survey,Survey
+Togo,768,AFR,25.0,2010,Survey,Survey
+Tonga,776,WPR,0.0,2010,Survey,Survey
+Trinidad and Tobago,780,AMR,0.0,2010,Survey,Survey
+Tuvalu,798,WPR,0.0,2009,Survey,Survey
+Uganda,800,AFR,54.0,2010,Survey,Survey
+North Macedonia,807,EUR,0.0,2022,Survey,Survey
+Egypt,818,EMR,0.34,2009,Survey,Survey
+United Republic of Tanzania,834,AFR,47.0,2008,Survey,Survey
+Burkina Faso,854,AFR,30.0,2002,Survey,Survey
+Uruguay,858,AMR,16.6,2010,Survey,Survey
+Zambia,894,AFR,0.0,2010,Survey,Survey
+Angola,24,AFR,14.0,2011,Sentinel,Sentinel
+Antigua and Barbuda,28,AMR,0.0,2018,Sentinel,Sentinel
+Bahamas,44,AMR,33.0,2009,Sentinel,Sentinel
+Barbados,52,AMR,0.0,2008,Sentinel,Sentinel
+Solomon Islands,90,WPR,0.0,2007,Sentinel,Sentinel
+Myanmar,104,SEA,9.2,2020,Sentinel,Sentinel
+Cambodia,116,WPR,24.0,Unknown,Sentinel,Sentinel
+Canada,124,AMR,0.0,2008,Sentinel,Sentinel
+Cayman Islands,136,AMR,0.0,2010,Sentinel,Sentinel
+Sri Lanka,144,SEA,1.0,2009,Sentinel,Sentinel
+China,156,WPR,0.75,2012,Sentinel,Sentinel
+Colombia,170,AMR,9.5,2009,Sentinel,Sentinel
+Democratic Republic of the Congo,180,AFR,8.0,2008,Sentinel,Sentinel
+Cuba,192,AMR,0.0,2010,Sentinel,Sentinel
+Benin,204,AFR,16.0,2010,Sentinel,Sentinel
+Dominican Republic,214,AMR,8.6,2005,Sentinel,Sentinel
+Ecuador,218,AMR,9.0,2007,Sentinel,Sentinel
+El Salvador,222,AMR,0.0,Unknown,Sentinel,Sentinel
+Ethiopia,231,AFR,17.6,2015,Sentinel,Sentinel
+Eritrea,232,AFR,17.9,2011,Sentinel,Sentinel
+Fiji,242,WPR,0.25,2009,Sentinel,Sentinel
+France,250,EUR,4.9,2023,Sentinel,Sentinel
+Djibouti,262,EMR,11.8,2008,Sentinel,Sentinel
+Gabon,266,AFR,42.0,2007,Sentinel,Sentinel
+Georgia,268,EUR,1.27,2010,Sentinel,Sentinel
+Ghana,288,AFR,0.0,Unknown,Sentinel,Sentinel
+Kiribati,296,WPR,1.0,2010,Sentinel,Sentinel
+Grenada,308,AMR,20.0,2009,Sentinel,Sentinel
+Guam,316,WPR,0.0,Unknown,Sentinel,Sentinel
+Guatemala,320,AMR,19.0,2007,Sentinel,Sentinel
+Guinea,324,AFR,17.0,2009,Sentinel,Sentinel
+Guyana,328,AMR,19.7,2008,Sentinel,Sentinel
+Haiti,332,AMR,20.0,2012,Sentinel,Sentinel
+"China, Hong Kong SAR",344,WPR,0.69,2014,Sentinel,Sentinel
+Israel,376,EUR,0.0,Unknown,Sentinel,Sentinel
+Jamaica,388,AMR,0.0,2007,Sentinel,Sentinel
+Jordan,400,EMR,0.0,2010,Sentinel,Sentinel
+Kenya,404,AFR,0.0,2009,Sentinel,Sentinel
+Kuwait,414,EMR,0.91,2012,Sentinel,Sentinel
+Lebanon,422,EMR,1.2,2015,Sentinel,Sentinel
+Lithuania,440,EUR,80.0,Unknown,Sentinel,Sentinel
+Madagascar,450,AFR,2.34,2013,Sentinel,Sentinel
+Malawi,454,AFR,63.0,2010,Sentinel,Sentinel
+Mali,466,AFR,16.0,2009,Sentinel,Sentinel
+Mauritania,478,AFR,5.2,2003,Sentinel,Sentinel
+Mauritius,480,AFR,11.0,2015,Sentinel,Sentinel
+Mexico,484,AMR,0.0,2009,Sentinel,Sentinel
+Mongolia,496,WPR,0.0,2009,Sentinel,Sentinel
+Morocco,504,EMR,0.64,2012,Sentinel,Sentinel
+Mozambique,508,AFR,56.0,2013,Sentinel,Sentinel
+Oman,512,EMR,0.0,2010,Sentinel,Sentinel
+Namibia,516,AFR,34.0,2009,Sentinel,Sentinel
+Nepal,524,SEA,6.0,2018,Sentinel,Sentinel
+Vanuatu,548,WPR,30.0,2009,Sentinel,Sentinel
+Niger,562,AFR,10.0,2009,Sentinel,Sentinel
+Niue,570,WPR,1.0,2018,Sentinel,Sentinel
+Northern Mariana Islands,580,WPR,0.0,2011,Sentinel,Sentinel
+Micronesia (Federated States of),583,WPR,0.0,2008,Sentinel,Sentinel
+Pakistan,586,EMR,2.4,2020,Sentinel,Sentinel
+Panama,591,AMR,0.0,Unknown,Sentinel,Sentinel
+Papua New Guinea,598,WPR,3.8,2008,Sentinel,Sentinel
+Paraguay,600,AMR,2.0,2007,Sentinel,Sentinel
+Peru,604,AMR,2.0,2010,Sentinel,Sentinel
+Timor-Leste,626,SEA,0.04,2013,Sentinel,Sentinel
+Qatar,634,EMR,0.0,2011,Sentinel,Sentinel
+Anguilla,660,AMR,0.0,2013,Sentinel,Sentinel
+Sao Tome and Principe,678,AFR,8.0,2022,Sentinel,Sentinel
+Serbia,688,EUR,0.0,2011,Sentinel,Sentinel
+Seychelles,690,AFR,73.0,2009,Sentinel,Sentinel
+Viet Nam,704,WPR,3.75,2008,Sentinel,Sentinel
+Somalia,706,EMR,1.5,2015,Sentinel,Sentinel
+Zimbabwe,716,AFR,0.0,Unknown,Sentinel,Sentinel
+Sudan,729,EMR,10.1,2006,Sentinel,Sentinel
+Syrian Arab Republic,760,EMR,0.0,2007,Sentinel,Sentinel
+Togo,768,AFR,0.0,Unknown,Sentinel,Sentinel
+Tonga,776,WPR,0.0,2010,Sentinel,Sentinel
+Trinidad and Tobago,780,AMR,23.0,2010,Sentinel,Sentinel
+Egypt,818,EMR,0.0,2009,Sentinel,Sentinel
+Uruguay,858,AMR,0.0,2010,Sentinel,Sentinel
+Zambia,894,AFR,78.0,2010,Sentinel,Sentinel
+Algeria,12,AFR,0.18,2002,Survey,Combined
+American Samoa,16,WPR,100.0,2008,Survey,Combined
+Antigua and Barbuda,28,AMR,0.0,2009,Survey,Combined
+Barbados,52,AMR,0.0,2008,Survey,Combined
+Botswana,72,AFR,67.5,2008,Survey,Combined
+Solomon Islands,90,WPR,0.0,Unknown,Survey,Combined
+Myanmar,104,SEA,0.0,2012,Survey,Combined
+Belarus,112,EUR,3.0,2008,Survey,Combined
+Cambodia,116,WPR,6.3,2009,Survey,Combined
+Cameroon,120,AFR,35.0,2008,Survey,Combined
+Canada,124,AMR,3.9,2009,Survey,Combined
+Cayman Islands,136,AMR,0.0,2010,Survey,Combined
+Sri Lanka,144,SEA,0.07,2011,Survey,Combined
+Colombia,170,AMR,10.0,2008,Survey,Combined
+Democratic Republic of the Congo,180,AFR,8.6,2007,Survey,Combined
+Cuba,192,AMR,1.0,2010,Survey,Combined
+Cyprus,196,EUR,4.0,2008,Survey,Combined
+Denmark,208,EUR,3.0,2011,Survey,Combined
+Dominican Republic,214,AMR,8.6,2005,Survey,Combined
+Ecuador,218,AMR,10.88,2012,Survey,Combined
+El Salvador,222,AMR,0.0,Unknown,Survey,Combined
+Estonia,233,EUR,10.3,2010,Survey,Combined
+Fiji,242,WPR,0.25,2009,Survey,Combined
+France,250,EUR,7.3,2012,Survey,Combined
+French Polynesia,258,WPR,0.0,2010,Survey,Combined
+Gabon,266,AFR,33.0,2004,Survey,Combined
+"occupied Palestinian territory, including east Jerusalem",275,EMR,0.0,2008,Survey,Combined
+Ghana,288,AFR,14.7,2008,Survey,Combined
+Kiribati,296,WPR,0.68,2010,Survey,Combined
+Grenada,308,AMR,25.0,2010,Survey,Combined
+Guam,316,WPR,0.0,2007,Survey,Combined
+Guinea,324,AFR,16.7,2001,Survey,Combined
+Guyana,328,AMR,0.0,Unknown,Survey,Combined
+"China, Hong Kong SAR",344,WPR,0.66,2018,Survey,Combined
+India,356,SEA,7.0,2007,Survey,Combined
+Indonesia,360,WPR,2.41,2017,Survey,Combined
+Israel,376,EUR,3.8,2010,Survey,Combined
+Jamaica,388,AMR,0.0,2007,Survey,Combined
+Japan,392,WPR,0.49,2008,Survey,Combined
+Kazakhstan,398,EUR,1.0,2009,Survey,Combined
+Jordan,400,EMR,0.0,2010,Survey,Combined
+Kenya,404,AFR,41.0,2010,Survey,Combined
+Kuwait,414,EMR,2.7,2009,Survey,Combined
+Lebanon,422,EMR,1.2,2015,Survey,Combined
+Latvia,428,EUR,9.5,2010,Survey,Combined
+Lithuania,440,EUR,100.0,2014,Survey,Combined
+"China, Macao SAR",446,WPR,0.25,2008,Survey,Combined
+Malawi,454,AFR,63.0,2008,Survey,Combined
+Mali,466,AFR,16.2,2007,Survey,Combined
+Malta,470,EUR,9.3,2010,Survey,Combined
+Mauritania,478,AFR,0.05,2003,Survey,Combined
+Mexico,484,AMR,5.0,2009,Survey,Combined
+Morocco,504,EMR,1.7,2008,Survey,Combined
+Oman,512,EMR,1.27,2010,Survey,Combined
+Namibia,516,AFR,55.0,2010,Survey,Combined
+Nepal,524,SEA,1.1,2018,Survey,Combined
+Netherlands (Kingdom of the),528,EUR,4.0,2009,Survey,Combined
+Curaçao,531,AMR,33.3,2009,Survey,Combined
+Vanuatu,548,WPR,40.0,2009,Survey,Combined
+Nicaragua,558,AMR,0.0,Unknown,Survey,Combined
+Niger,562,AFR,11.0,2009,Survey,Combined
+Niue,570,WPR,1.0,2018,Survey,Combined
+Northern Mariana Islands,580,WPR,0.0,2011,Survey,Combined
+Pakistan,586,EMR,0.68,2018,Survey,Combined
+Panama,591,AMR,0.0,Unknown,Survey,Combined
+Paraguay,600,AMR,0.0,2010,Survey,Combined
+Peru,604,AMR,2.0,2010,Survey,Combined
+Portugal,620,EUR,12.0,2010,Survey,Combined
+Qatar,634,EMR,0.2,2011,Survey,Combined
+Romania,642,EUR,3.2,2010,Survey,Combined
+Russian Federation,643,EUR,8.0,2009,Survey,Combined
+Anguilla,660,AMR,0.0,2013,Survey,Combined
+Sao Tome and Principe,678,AFR,10.0,2022,Survey,Combined
+Serbia,688,EUR,0.3,2011,Survey,Combined
+Seychelles,690,AFR,0.0,2009,Survey,Combined
+Sierra Leone,694,AFR,10.9,2005,Survey,Combined
+Somalia,706,EMR,0.0,2010,Survey,Combined
+Zimbabwe,716,AFR,0.0,Unknown,Survey,Combined
+South Sudan,728,AFR,14.7,2011,Survey,Combined
+Eswatini,748,AFR,60.0,2018,Survey,Combined
+Syrian Arab Republic,760,EMR,0.0,Unknown,Survey,Combined
+Tajikistan,762,EUR,4.0,2008,Survey,Combined
+Thailand,764,SEA,17.0,2007,Survey,Combined
+Togo,768,AFR,25.0,2010,Survey,Combined
+Tonga,776,WPR,0.0,2010,Survey,Combined
+Trinidad and Tobago,780,AMR,0.0,2010,Survey,Combined
+Tuvalu,798,WPR,0.0,2009,Survey,Combined
+Uganda,800,AFR,54.0,2010,Survey,Combined
+North Macedonia,807,EUR,0.0,2022,Survey,Combined
+Egypt,818,EMR,0.34,2009,Survey,Combined
+United Republic of Tanzania,834,AFR,47.0,2008,Survey,Combined
+Burkina Faso,854,AFR,30.0,2002,Survey,Combined
+Uruguay,858,AMR,16.6,2010,Survey,Combined
+Zambia,894,AFR,0.0,2010,Survey,Combined
+Angola,24,AFR,14.0,2011,Sentinel,Combined
+Bahamas,44,AMR,33.0,2009,Sentinel,Combined
+China,156,WPR,0.75,2012,Sentinel,Combined
+Benin,204,AFR,16.0,2010,Sentinel,Combined
+Ethiopia,231,AFR,17.6,2015,Sentinel,Combined
+Eritrea,232,AFR,17.9,2011,Sentinel,Combined
+Djibouti,262,EMR,11.8,2008,Sentinel,Combined
+Georgia,268,EUR,1.27,2010,Sentinel,Combined
+Guatemala,320,AMR,19.0,2007,Sentinel,Combined
+Haiti,332,AMR,20.0,2012,Sentinel,Combined
+Madagascar,450,AFR,2.34,2013,Sentinel,Combined
+Mauritius,480,AFR,11.0,2015,Sentinel,Combined
+Mongolia,496,WPR,0.0,2009,Sentinel,Combined
+Mozambique,508,AFR,56.0,2013,Sentinel,Combined
+Micronesia (Federated States of),583,WPR,0.0,2008,Sentinel,Combined
+Papua New Guinea,598,WPR,3.8,2008,Sentinel,Combined
+Timor-Leste,626,SEA,0.04,2013,Sentinel,Combined
+Viet Nam,704,WPR,3.75,2008,Sentinel,Combined
+Sudan,729,EMR,10.1,2006,Sentinel,Combined
